@@ -1,0 +1,35 @@
+.mywork{
+    margin: 50px 20px;
+    border: 1px solid gray;
+    line-height: 1.2;
+    background-color: #007BFF;
+    color: white;
+}
+
+.mywork-title{
+    text-align: center;
+    font-size: 48px;
+    padding: 10px;
+    /* color: white; */
+}
+
+.mywork-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px;
+    margin: 40px 80px;
+}
+
+.mywork-container img{
+    box-sizing: border-box;
+    width: 400px;
+    height: 280px;
+    cursor: pointer;
+}
+
+.mywork-container img:hover{
+    transform: scale(1.15);
+    box-shadow: 8px 8px 5px #000;
+    color: white;
+    border: none;
+}
