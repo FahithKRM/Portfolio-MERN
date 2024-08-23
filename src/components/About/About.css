@@ -64,6 +64,7 @@
     align-items: center;
     gap: 50px;
     padding: 2px;
+    cursor: pointer;
 }
 
 .about-skill p{
