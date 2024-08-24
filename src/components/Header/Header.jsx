@@ -25,13 +25,19 @@ const Header = () => {
         </div>
         <div className="social-icons">
           <div className="social-icon">
+            <a href="">
             <CircumIcon name="facebook" size="36px" color="#fff" />
+            </a>
           </div>
           <div className="social-icon">
+            <a href="https://x.com/Faahith_KRM">
             <CircumIcon name="twitter" size="36px" color="#fff" />
+            </a>
           </div>
           <div className="social-icon">
+            <a href="https://www.linkedin.com/in/krmfahith/">
             <CircumIcon name="linkedin" size="36px" color="#fff" />
+            </a>
           </div>
         </div>
       </div>
