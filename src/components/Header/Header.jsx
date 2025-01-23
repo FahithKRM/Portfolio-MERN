@@ -1,12 +1,13 @@
 import './Header.css'
-import profile_img from '../../assets/image1.png';
+import profile_im from '../../assets/image1.png';
+import profile_img from "../../assets/Profile.jpg";
 import CircumIcon from '@klarr-agency/circum-icons-react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 const Header = () => {
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/file/d/1o1Z-cUe3egugi5n3Ry4QbsYzlCcXwF8p/view?usp=sharing'; // file path
+    link.href = 'https://drive.google.com/file/d/1RdGmhUR4tQaGqgxRBUJvLE4Ykz2u_Sn7/view?usp=drive_link'; // file path
     link.download = 'FahithKRM_Resume.pdf'; // Name of the downloaded file
     document.body.appendChild(link);
     link.click();
