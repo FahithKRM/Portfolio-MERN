@@ -1,5 +1,6 @@
 import "./About.css";
-import profile_img from "../../assets/image1.png";
+import profile_imgage from "../../assets/image1.png";
+import profile_img from "../../assets/Profile.jpg";
 import { useState } from "react";
 
 const About = () => {
