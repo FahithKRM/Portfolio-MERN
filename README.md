@@ -1,13 +1,6 @@
+## Welcome! 👋
 # Portfolio Website Design 
   Link : https://fahith.vercel.app/
-
-## Welcome! 👋
-
-
-![Portfolio Website Design](https://github.com/user-attachments/assets/8c867c43-6b0b-4a62-b254-493ad92742ea)
-
-
-![Portfolio Website Design](https://github.com/user-attachments/assets/8eecc819-f56f-4603-bc78-b8e4e92b6d7e)
 
 
 ## Got feedback for us?
