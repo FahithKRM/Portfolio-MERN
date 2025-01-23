@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-Visit [MY Portfolio](https://krmfahith-fahith-krms-projects.vercel.app/)
+[Visit](https://krmfahith-fahith-krms-projects.vercel.app/)
 
 
 ## Got feedback for us?
